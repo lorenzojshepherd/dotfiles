@@ -102,5 +102,3 @@ fi
 alias zshconf="source ~/.config/zsh/.zshrc"
 alias kctl="kubectl"
 alias clr="clear"
-
-eval $(thefuck --alias)
